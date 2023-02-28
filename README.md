@@ -25,6 +25,11 @@ Programación de Dispositivos Móviles 2023-2
 ---
 # Tareas
 
-- [x] [Tarea 1](#)
+- [x] [Tarea 1](./Tarea%201/HolaTodos.zip)
 - [ ] [Tarea 2](#)
 - [ ] [Tarea 3](#)
+
+# Prácticas
+- [x] [Práctica 1](./Practica%201/P1_Cajero_CamachoSosa.md)
+- [ ] [Práctica 2](#)
+- [ ] [Práctica 3](#)
