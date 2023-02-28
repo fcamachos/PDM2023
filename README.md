@@ -1,8 +1,8 @@
 [<img src="https://pagina.fciencias.unam.mx/sites/default/files/logoFC_2.png" width="400" style="float:center;border-radius:10%"/>](https://www.fciencias.unam.mx)
 
 
-Programación de Dispositivos Móviles 2023-2
----
+#Programación de Dispositivos Móviles 2023-2
+
 
 ***Profesor***
 >  [Gustavo Arturo Márquez Flores](mailto:gmarquez@ciencias.unam.mx)
@@ -23,13 +23,13 @@ Programación de Dispositivos Móviles 2023-2
 >> 305262550
 
 ---
-# Tareas
+## Tareas
 
 - [x] [Tarea 1](./Tarea%201/HolaTodos.zip)
 - [ ] [Tarea 2](#)
 - [ ] [Tarea 3](#)
 
-# Prácticas
+## Prácticas
 - [x] [Práctica 1](./Practica%201/P1_Cajero_CamachoSosa.md)
 - [ ] [Práctica 2](#)
 - [ ] [Práctica 3](#)
