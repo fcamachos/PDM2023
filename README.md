@@ -31,5 +31,5 @@
 
 ## Prácticas
 - [x] [Práctica 1](./Practica%201/P1_Cajero_CamachoSosa.md)
-- [ ] [Práctica 2](#)
+- [x] [Práctica 2](./Practica%202/P2_Cajero_CamachoSosa.md)
 - [ ] [Práctica 3](#)
