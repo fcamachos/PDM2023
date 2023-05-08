@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UNAMordida</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Carrito</string>
+    <string name="title_notifications">Perfil</string>
+    <string name="add_button">Añadir</string>
+</resources>

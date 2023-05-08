@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="nombres_comida">
+        <item>Ensalada César</item>
+        <item>Spaghetti a la boloñesa</item>
+        <item>Pizza de pepperoni</item>
+        <item>Hamburguesa con queso</item>
+        <item>Ensalada de frutas</item>
+        <item>Papas fritas</item>
+    </string-array>
+
+    <string-array name="descripciones_comida">
+        <item>Lechuga, crutones, pollo, queso parmesano, aderezo César.</item>
+        <item>Spaghetti con salsa de tomate, carne molida y hierbas.</item>
+        <item>Base de salsa de tomate, queso mozzarella y pepperoni.</item>
+        <item>Carne de res, queso cheddar, tocino, lechuga, tomate y cebolla.</item>
+        <item>Una mezcla fresca de frutas de temporada.</item>
+        <item>Deliciosas papas fritas crujientes y doradas.</item>
+    </string-array>
+</resources>
