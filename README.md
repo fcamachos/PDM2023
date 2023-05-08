@@ -10,10 +10,12 @@
 ***Ayudantes***
 >***Teoría***
 >> [Ilse Gisela Súarez Peña](mailto:ilse_suarez@ciencias.unam.mx)
+>
 >> [Francisco Javier Ortíz Medrano](mailto:w.jav56@ciencias.unam.mx)
 
 >***Laboratorio***
 >> [Jesús Iván Saavedra Martínez](mailto:ivan.saavedra@ciencias.unam.mx)
+>
 >> [Fernando Antonio Sánchez Montoya](mailto:cafetafer@ciencias.unam.mx)
 
 
