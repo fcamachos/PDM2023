@@ -13,13 +13,13 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.unamordida.ui.dashboard.DashboardFragment"
+        android:name="com.example.unamordida.ui.shoppingcart.ShoppingCartFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.example.unamordida.ui.notifications.NotificationsFragment"
+        android:name="com.example.unamordida.ui.profile.ProfileFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_shopping_cart" />
 </navigation>
